@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akhilesh Kakkar
 - 👀 I’m interested in robotics and machine learning 
-- 🌱 I’m currently a 4th year in the Mechatronics Systems Engineering program @SFU
+- 🌱 I’m currently completing the Mechatronics Systems Engineering program @SFU
 - 📫 Check out my website! https://akakkar.my.canva.site/
 
 
